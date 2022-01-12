@@ -1,0 +1,16 @@
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.exe
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.deps.json
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.runtimeconfig.json
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.runtimeconfig.dev.json
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.dll
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\ref\BossFight.dll
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\bin\Debug\net5.0\BossFight.pdb
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.csproj.AssemblyReference.cache
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.GeneratedMSBuildEditorConfig.editorconfig
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.AssemblyInfoInputs.cache
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.AssemblyInfo.cs
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.csproj.CoreCompileInputs.cache
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.dll
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\ref\BossFight.dll
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.pdb
+G:\Utvikling\repos\Modul3Repos\BossFight\BossFight\obj\Debug\net5.0\BossFight.genruntimeconfig.cache
